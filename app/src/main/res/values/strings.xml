@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab2-GameRotationVector</string>
+    <string name="Zeros">0.00</string>
+    <string name="ShowSensors">Показать сенсоры</string>
+    <string name="lableX">X:</string>
+    <string name="lableY">Y:</string>
+    <string name="lableZ">Z:</string>
+    <string name="sensors">Список датчиков</string>
+    <string name="sensorFormat">Имя: %s\nТип: %d\nПроизводитель: %s\nВерсия: %d\nЗадержка: [%d, %d]\nМаксимальное значение: %f\nМощность, мВт: %f\nТочность: %f</string>
+</resources>
